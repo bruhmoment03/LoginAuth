@@ -13,7 +13,7 @@ LoginAuth written in C++ for finals (the actual homework I've handed to my teach
 2. better UI design `(i failed art)`
 
 ## How does it work?
-First of all, when you open the program, you have to get the corrent username and password to pass the authentication`(I made it as simple as possible for my partner)`, I was about to try using [libcurl]https://curl.se/libcurl/c/example.html with a pastebin that has user data in it, but as far as I know my teacher doesn't like my idea so I have nothing to do but change the whole system with simple strcmp function.
+First of all, when you open the program, you have to get the corrent username and password to pass the authentication`(I made it as simple as possible for my partner)`, I was about to try using [libcurl](https://curl.se/libcurl/c/example.html) with a pastebin that has user data in it, but as far as I know my teacher doesn't like my idea so I have nothing to do but change the whole system with simple strcmp function.
 
 `(Better explanations are commented in the code.)`
 
